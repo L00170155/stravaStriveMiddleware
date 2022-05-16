@@ -1,5 +1,5 @@
-const axios =require("axios"); // function to get the data from the 
-const req = require("express/lib/request");
+const axios =require("axios"); // function to get the data from the db
+
 
 function addUsers (userId, pass) {
  
