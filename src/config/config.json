@@ -1,7 +1,5 @@
-{"development":
-    {"port":4000},
-"test":
-    {"port":4000},
-"production":
-    {"port":5000}
+{
+  "development": { "port": 4000 },
+  "test": { "port": 4000 },
+  "production": { "port": 5000 }
 }
