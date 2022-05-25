@@ -1,5 +1,3 @@
-const express = require("express");
-
 const axios = require("axios"); 
 
 let getUser = async () => {

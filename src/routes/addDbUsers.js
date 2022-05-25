@@ -10,10 +10,10 @@ function addUsers(userId, pass, clientId, clientSecret, token) {
       stravaToken: token,
     })
     .then(function (res) {
-      return "good";
+      return "success";
     })
     .catch(function (error) {});
-  return "goo";
+  return "succes";
 }
 
 module.exports = async (req, res) => {
